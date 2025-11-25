@@ -25,6 +25,9 @@ Simple clock program, made with Qt on C++.
 <img width="583" height="580" alt="image" src="https://github.com/user-attachments/assets/5c52e381-08e9-4875-ba30-61be3c43c312" />
 <img width="599" height="596" alt="image" src="https://github.com/user-attachments/assets/565102ef-9a52-487a-a5f0-b33d09a7917e" />
 
+![MyClock_video_showcase](https://github.com/user-attachments/assets/cc54e81f-89b8-4f26-b456-54c27b5fc7d6)
+
+
 ## ⚙️ How to Build and Run
 
 1.  **Prerequisites:** Ensure you have **Qt Creator** and **Qt 6.x** installed (with MinGW or MSVC compiler).
